@@ -8,3 +8,4 @@ https://railsguides.jp/caching_with_rails.html
 
 
 
+
